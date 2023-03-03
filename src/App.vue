@@ -1,0 +1,19 @@
+<template>
+  <div class="font-inter bg-white dark:bg-black">
+    <router-view/>
+  </div>
+</template>
+<script lang="ts">
+import {defineComponent} from "vue";
+
+export default defineComponent({
+  setup() {
+
+  }
+});
+</script>
+<style>
+
+</style>
+
+
